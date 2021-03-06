@@ -1,2 +1,2 @@
 # Array-Template
-Made my own Array
+Made my own Array in class
